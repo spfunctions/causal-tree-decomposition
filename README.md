@@ -56,3 +56,11 @@ Define your own `CausalTree` and call `decompose(tree)`. The engine works with a
 ## License
 
 MIT
+
+---
+
+**Part of [SimpleFunctions](https://simplefunctions.dev)** — context flow for prediction markets.
+
+- [CLI](https://github.com/spfunctions/simplefunctions-cli) — 42 commands for prediction market intelligence
+- [MCP Server](https://simplefunctions.dev/api/mcp/mcp) — connect any LLM to prediction markets
+- [REST API](https://simplefunctions.dev/docs) — structured market data for your app
