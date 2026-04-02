@@ -1,0 +1,11 @@
+{
+  "name": "causal-tree-decomposition",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx causal-tree.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0"
+  }
+}
